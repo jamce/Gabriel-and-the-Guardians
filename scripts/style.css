@@ -13,7 +13,7 @@ body {
 	font-family: 'Raleway', 'Tw Cent MT Regular', 'Helvetica', 'Arial', sans-serif;
 	font-size: 16px;
 	color: white;
-	background-image: url(../img/bg_black.jpg);background-repeat:repeat-y;background-size: cover;background-attachment: fixed;
+	background-image: url(../img/bg_black.jpg);background-repeat:repeat-y;background-size:100%;background-attachment: fixed;
 	background-color: #000000;
 }
 
@@ -34,7 +34,7 @@ div {
 }
 
 	.bluebg {
-		background-image: url(../img/grid.jpg);background-repeat:repeat-y;background-size: cover;background-attachment: fixed;
+		background-image: url(../img/grid.jpg);background-repeat:repeat-y;background-size:100%;background-attachment: fixed;
 		background-color: #7789eb;
 	}
 	
