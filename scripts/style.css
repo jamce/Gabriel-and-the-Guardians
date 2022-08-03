@@ -86,7 +86,7 @@ div {
 	}
 		
 	.pinkbg {
-	background-image: url("../img/scan_line.png");background-repeat:repeat-y;background-size: cover;background-attachment:fixed;	
+	background-image: url("../img/scan_line.png");background-repeat:repeat-y;background-size:100%;background-attachment:fixed;	
 		background-color: #C10845;
 	}
 	
