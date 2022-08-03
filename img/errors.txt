@@ -1,0 +1,3 @@
+[Thu Jan 24 2019 10:33:24 GMT-0500 (Eastern Standard Time)] Layer "follower_body_12.png copy": Expected end of input but "c" found.
+[Thu Jan 24 2019 10:33:24 GMT-0500 (Eastern Standard Time)] Layer "attacker_body_12.png copy": Expected end of input but "c" found.
+[Thu Jan 24 2019 10:33:24 GMT-0500 (Eastern Standard Time)] Layer "attacker_body_12_highlight.png c": Expected end of input but "c" found.
