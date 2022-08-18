@@ -84,17 +84,13 @@ div {
 	.orangebg {	
 		
 		background: url(../img/scan_lines_bg_colors.jpg) no-repeat center center fixed; 
--webkit-background-size: cover;
--moz-background-size: cover;
--o-background-size: cover;
-background-size: cover;
-}
+		
 		background-color: #faca6b;
 	
 	}
 		
 	.pinkbg {
-	background-image: url("../img/scan_line.png");background-repeat:repeat-y;background-size:100%;background-attachment:fixed;	
+	background-image: url("../img/scan_line.png");background-repeat:repeat-y;background-size:cover;background-attachment:fixed;	
 		background-color: #C10845;
 	}
 	
