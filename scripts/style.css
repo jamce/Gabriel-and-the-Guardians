@@ -82,7 +82,9 @@ div {
 	}
 	
 	.orangebg {
+		background-image: url("../img/scan_lines_bg_colors.jpg");background-repeat:repeat-y;background-size:100%;background-attachment:fixed;	
 		background-color: #faca6b;
+	
 	}
 		
 	.pinkbg {
