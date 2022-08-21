@@ -43,7 +43,7 @@ div {
 		background-image: url(../img/grid.jpg);
 		background-repeat:repeat-y;
 		background-size:100%;
-		background-attachment: fixed;
+		background-attachment:fixed;
 		background-color: #7789eb;
 	}
 	
@@ -83,7 +83,10 @@ div {
 	}
 	
 	.ltpurplebg {
-	background-image: url("../img/Starry_bg.jpg");background-repeat:repeat-y;background-size: cover;background-attachment:scroll;
+	background-image: url("../img/Starry_bg.jpg");
+		background-repeat:repeat-y;
+		background-size: cover;
+		background-attachment:scroll;
 	}
 	
 	.noshrink {
@@ -92,13 +95,19 @@ div {
 	
 	.orangebg {	
 		
-		background: url(../img/scan_lines_bg_colors.jpg);background-repeat:repeat-y;background-size:100%;background-attachment:fixed;	
+		background: url(../img/scan_lines_bg_colors.jpg);
+		background-repeat:repeat-y;
+		background-size:100%;
+		background-attachment:fixed;	
 		background-color: #faca6b;
 	
 	}
 		
 	.pinkbg {
-	background-image: url("../img/scan_line.png");background-repeat:repeat-y;background-size:100%;background-attachment:fixed;	
+	background-image: url("../img/scan_line.png");
+		background-repeat:repeat-y;
+		background-size:100%;
+		background-attachment:fixed;	
 		background-color: #C10845;
 	}
 	
